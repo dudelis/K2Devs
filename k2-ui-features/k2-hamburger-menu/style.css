@@ -1,0 +1,81 @@
+@media screen and (min-width: 800px){
+    .hamburger{
+        display:none;
+    }
+    .cross{
+        display:none;
+    }
+    .hamburger-wrapper{
+        display:none;
+    }
+    .tab-box-tabs{
+        display:block;
+    }
+}
+
+@media screen and (max-width: 800px){
+   ul.tab-box-tabs {
+       display:none;
+       z-index:1000000;
+       font-weight:bold;
+       width:100%;
+       background:#f1f1f1; 
+       text-align:center;
+       font-size:1.2rem;
+   }
+   ul.tab-box-tabs li {
+       display: block !important;
+       border-bottom:#dddddd 1px solid;
+   }
+   ul.tab-box-tabs li:hover{
+       display: block;
+       background:#ffffff;
+       border-bottom:#dddddd 1px solid;
+   }
+   ul.tab-box-tabs li a {
+       width: 100% !important;
+       text-decoration:none; 
+       margin: 0px;
+       color:#666;
+   }
+   ul.tab-box-tabs .tab-wrapper{
+       background-color: transparent !important;
+   }
+   .hamburger{
+       background:none;
+       position:absolute;
+       top:0;
+       left:0px;
+       line-height:4rem;
+       color:#999;
+       border:0;
+       font-size:3rem;
+       font-weight:bold;
+       cursor:pointer;
+       outline:none;
+       z-index:10000000000000;
+   }
+   .cross{
+       background:none;
+       position:absolute;
+       top:0px;
+       left:0px;
+       padding:0.7rem 1rem 0rem 1rem;
+       color:#999;
+       border:0;
+       font-size:7rem;
+       line-height:5rem;
+       font-weight:bold;
+       cursor:pointer;
+       outline:none;
+       z-index:10000000000000;
+       display:none;
+   }
+   .hamburger-wrapper{
+       width:100%; 
+       background:transparent; 
+       height:4rem; 
+       line-height:4rem;
+       border-bottom:1px solid #dddddd;
+   }
+}
