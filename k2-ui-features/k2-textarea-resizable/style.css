@@ -1,0 +1,31 @@
+.ui-resizable-se {
+    cursor: se-resize;
+    width: 12px;
+    height: 12px;
+    right: 1px;
+    bottom: 1px;
+}
+.ui-resizable-handle {
+    position: absolute;
+    z-index: 99999;
+    display: block;
+}
+.ui-icon-gripsmall-diagonal-se {
+    background-position: -64px -224px;
+}
+.ui-icon {
+    background-color: lightgray;
+    display: block;
+    text-indent: -99999px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+.ui-icon:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-top: 12px solid white;
+    border-right: 12px solid lightgrey;
+    width: 0;
+}
