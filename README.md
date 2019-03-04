@@ -10,4 +10,6 @@ I will store here various interesting k2 features, which can be used to enhance 
 ## [K2 Slide In Worklist](https://dudelisdev.com/2019/02/k2-slide-worklist.html)
 ![K2 Slide In Worklist](https://dudelisdev.com/wp-content/uploads/2019/02/K2-slide-in-worklist.gif)
 
+## [K2 Resizble Textareas](https://dudelisdev.com/2019/03/k2-smartforms-how-to-make-textarea.html)
+![K2 Textareas resizable](https://dudelisdev.com/wp-content/uploads/2019/03/textarea-resizable.gif)
 
