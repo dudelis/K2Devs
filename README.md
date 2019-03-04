@@ -1,15 +1,18 @@
 # K2Devs
 I will store here various interesting k2 features, which can be used to enhance standard K2 functionality.
 
-## [K2 Hamburger Menu](https://dudelisdev.com/2019/02/hamburger-menu-tabs.html)
+## K2 UI Features
+The items below can be found in the k2-ui-features folder.
+
+### [K2 Hamburger Menu](https://dudelisdev.com/2019/02/hamburger-menu-tabs.html)
 ![Hamburger Menu example](https://dudelisdev.com/wp-content/uploads/2019/02/Hamburger-Menu_example-2.png)
 
-## [K2 Scroll To Top Button](https://dudelisdev.com/2018/11/scroll-top-button.html)
+### [K2 Scroll To Top Button](https://dudelisdev.com/2018/11/scroll-top-button.html)
 ![Scroll to Top Button Example](https://dudelisdev.com/wp-content/uploads/2018/11/Scroll-to-top-button.gif)
 
-## [K2 Slide In Worklist](https://dudelisdev.com/2019/02/k2-slide-worklist.html)
+### [K2 Slide In Worklist](https://dudelisdev.com/2019/02/k2-slide-worklist.html)
 ![K2 Slide In Worklist](https://dudelisdev.com/wp-content/uploads/2019/02/K2-slide-in-worklist.gif)
 
-## [K2 Resizble Textareas](https://dudelisdev.com/2019/03/k2-smartforms-how-to-make-textarea.html)
+### [K2 Resizble Textareas](https://dudelisdev.com/2019/03/k2-smartforms-how-to-make-textarea.html)
 ![K2 Textareas resizable](https://dudelisdev.com/wp-content/uploads/2019/03/textarea-resizable.gif)
 
