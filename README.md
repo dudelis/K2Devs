@@ -17,9 +17,10 @@ The items below can be found in the k2-ui-features folder.
 ![K2 Textareas resizable](https://dudelisdev.com/wp-content/uploads/2019/03/textarea-resizable.gif)
 
 ### [K2 Popup Animations](https://dudelisdev.com/2019/03/popup-animations-k2.html)
+#### [Jack In the Box]
 ![Jack In the Box](https://dudelisdev.com/wp-content/uploads/2019/03/CSS-Animation-jackInTheBox.gif)
-
+#### [Slide In Right]
 ![Slide In Right](https://dudelisdev.com/wp-content/uploads/2019/03/CSS-SlideInRightFadeOut.gif)
-
+#### [Zoom In]
 ![Zoom In](https://dudelisdev.com/wp-content/uploads/2019/03/CSS-SubViewZoomIn.gif)
 
