@@ -1,0 +1,56 @@
+.popup.dialog.runtime-message {
+    animation-name: jackInTheBox;
+    animation-duration: 2s;
+}
+
+@-webkit-keyframes jackInTheBox {
+    0% {
+        -webkit-transform: scale(.1) rotate(30deg);
+        -webkit-transform-origin: center bottom;
+        opacity: 0;
+        transform: scale(.1) rotate(30deg);
+        transform-origin: center bottom
+    }
+
+    50% {
+        -webkit-transform: rotate(-10deg);
+        transform: rotate(-10deg)
+    }
+
+    70% {
+        -webkit-transform: rotate(3deg);
+        transform: rotate(3deg)
+    }
+
+    to {
+        -webkit-transform: scale(1);
+        opacity: 1;
+        transform: scale(1)
+    }
+}
+
+@keyframes jackInTheBox {
+    0% {
+        -webkit-transform: scale(.1) rotate(30deg);
+        -webkit-transform-origin: center bottom;
+        opacity: 0;
+        transform: scale(.1) rotate(30deg);
+        transform-origin: center bottom
+    }
+
+    50% {
+        -webkit-transform: rotate(-10deg);
+        transform: rotate(-10deg)
+    }
+
+    70% {
+        -webkit-transform: rotate(3deg);
+        transform: rotate(3deg)
+    }
+
+    to {
+        -webkit-transform: scale(1);
+        opacity: 1;
+        transform: scale(1)
+    }
+}
