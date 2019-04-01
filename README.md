@@ -4,12 +4,37 @@ I will store here various interesting k2 features, which can be used to enhance 
 ## K2 UI Features
 The items below can be found in the k2-ui-features folder.
 
-###<details><summary><a href="https://dudelisdev.com/2019/02/hamburger-menu-tabs.html" rel="nofollow">K2 Hamburger Menu</a></summary>
+<details><summary><h3><a href="https://dudelisdev.com/2019/02/hamburger-menu-tabs.html" rel="nofollow">K2 Hamburger Menu</a></h3></summary>
 
 <img src="https://dudelisdev.com/wp-content/uploads/2019/02/Hamburger-Menu_example-2.png" alt="Hamburger Menu example" style="max-width:100%;">
 </details>
 
-### [K2 Scroll To Top Button](https://dudelisdev.com/2018/11/scroll-top-button.html)
+<details><summary><h3><a href="https://dudelisdev.com/2018/11/scroll-top-button.html" rel="nofollow">K2 Scroll To Top Button</a></h3></summary>
+
+<img src="https://dudelisdev.com/wp-content/uploads/2018/11/Scroll-to-top-button.gif" alt="Scroll to Top Button Example" style="max-width:100%;">
+</details>
+
+<details><summary><h3><a href="https://dudelisdev.com/2019/02/hamburger-menu-tabs.html" rel="nofollow">K2 Hamburger Menu</a></h3></summary>
+
+<img src="https://dudelisdev.com/wp-content/uploads/2019/02/Hamburger-Menu_example-2.png" alt="Hamburger Menu example" style="max-width:100%;">
+</details>
+
+<details><summary><h3><a href="https://dudelisdev.com/2019/02/hamburger-menu-tabs.html" rel="nofollow">K2 Hamburger Menu</a></h3></summary>
+
+<img src="https://dudelisdev.com/wp-content/uploads/2019/02/Hamburger-Menu_example-2.png" alt="Hamburger Menu example" style="max-width:100%;">
+</details>
+
+<details><summary><h3><a href="https://dudelisdev.com/2019/02/hamburger-menu-tabs.html" rel="nofollow">K2 Hamburger Menu</a></h3></summary>
+
+<img src="https://dudelisdev.com/wp-content/uploads/2019/02/Hamburger-Menu_example-2.png" alt="Hamburger Menu example" style="max-width:100%;">
+</details>
+
+<details><summary><h3><a href="https://dudelisdev.com/2019/02/hamburger-menu-tabs.html" rel="nofollow">K2 Hamburger Menu</a></h3></summary>
+
+<img src="https://dudelisdev.com/wp-content/uploads/2019/02/Hamburger-Menu_example-2.png" alt="Hamburger Menu example" style="max-width:100%;">
+</details>
+
+### [](https://dudelisdev.com/2018/11/scroll-top-button.html)
 ![Scroll to Top Button Example](https://dudelisdev.com/wp-content/uploads/2018/11/Scroll-to-top-button.gif)
 
 ### [K2 Slide In Worklist](https://dudelisdev.com/2019/02/k2-slide-worklist.html)
