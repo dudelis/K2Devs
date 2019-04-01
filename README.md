@@ -39,15 +39,7 @@ The items below can be found in the k2-ui-features folder.
 <img src="https://dudelisdev.com/wp-content/uploads/2019/02/Hamburger-Menu_example-2.png" alt="Hamburger Menu example" style="max-width:100%;">
 </details>
 
+<details><summary><a href="https://dudelisdev.com/2019/04/video-background-k2.html" rel="nofollow">Video as Background in K2 Smartforms</a></summary>
 
-
-### []()
-#### Jack In the Box
-![Jack In the Box](https://dudelisdev.com/wp-content/uploads/2019/03/CSS-Animation-jackInTheBox.gif)
-#### Slide In Right
-![Slide In Right](https://dudelisdev.com/wp-content/uploads/2019/03/CSS-SlideInRightFadeOut.gif)
-#### Zoom In
-![Zoom In](https://dudelisdev.com/wp-content/uploads/2019/03/CSS-SubViewZoomIn.gif)
-
-### [Video as Background in K2 Smartforms](https://dudelisdev.com/2019/04/video-background-k2.html)
-![Background Video](https://github.com/dudelis/K2Devs/raw/master/k2-ui-features/k2-video-background/video-background-result.gif)
+<img src="https://github.com/dudelis/K2Devs/raw/master/k2-ui-features/k2-video-background/video-background-result.gif" alt="Background Video" style="max-width:100%;">
+</details>
