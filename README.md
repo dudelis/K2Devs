@@ -4,7 +4,7 @@ I will store here various interesting k2 features, which can be used to enhance 
 ## K2 UI Features
 The items below can be found in the k2-ui-features folder.
 
-### <details><summary>K2 Hamburger Menu</summary>
+<details><summary>K2 Hamburger Menu</summary>
 <p>
 [K2 Hamburger Menu](https://dudelisdev.com/2019/02/hamburger-menu-tabs.html)
 ![Hamburger Menu example](https://dudelisdev.com/wp-content/uploads/2019/02/Hamburger-Menu_example-2.png)
