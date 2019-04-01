@@ -24,3 +24,5 @@ The items below can be found in the k2-ui-features folder.
 #### Zoom In
 ![Zoom In](https://dudelisdev.com/wp-content/uploads/2019/03/CSS-SubViewZoomIn.gif)
 
+### [Video as Background in K2 Smartforms](https://dudelisdev.com/2019/04/video-background-k2.html)
+![Background Video](https://github.com/dudelis/K2Devs/raw/master/k2-ui-features/k2-video-background/video-background-result.gif)
